@@ -1,0 +1,41 @@
+{
+  "name": "loungelex",
+  "version": "3.0.0",
+  "description": "A Discord bot for language moderation and detection",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mahito0x/LoungeLex.git"
+  },
+  "keywords": [
+    "loungelex",
+    "discord",
+    "bot",
+    "language",
+    "moderation",
+    "translation",
+    "detection"
+  ],
+  "author": "Mahito",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mahito0x/LoungeLex/issues"
+  },
+  "homepage": "https://github.com/Mahito0x/LoungeLex#readme",
+  "dependencies": {
+    "cld": "^2.9.0",
+    "colours": "^0.6.0-2",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.5.0",
+    "fasttext": "^1.0.0",
+    "fs": "^0.0.1-security",
+    "langdetect": "^0.2.1",
+    "langs": "^2.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.40.0"
+  }
+}

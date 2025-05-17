@@ -19,3 +19,16 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+### Modifications and Improvements by Mahito (2025):
+
+- Escalating warning system (warning → final warning → timeout, no auto-kick)
+- Per-user infraction reset after 24h of no violations
+- Modernized error handling and message formatting
+- Reverted and optimized language detection for reliability (Planned to use Fasttext but failed)
+- Enhanced moderation logic and Discord UX
+
+Original author: TheFacelessOne  
+Major improvements and maintenance: Mahito (2025)

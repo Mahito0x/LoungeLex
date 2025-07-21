@@ -2,10 +2,11 @@
 
 ### A Discord bot for detecting and managing multilingual chat  
 ### [Invite LoungeLex](https://discord.com/oauth2/authorize?client_id=866186816645890078&permissions=274877982720&scope=applications.commands%20bot)  
-### [Join Support Server](https://discord.gg/KanK9j6pxV)
+### [Join Support Server](https://discord.gg/DFFdYTYmGw)
 
 ---
 
+> [!CAUTION]
 > ⚠️ LoungeLex is actively being developed. If you have suggestions or need a feature, feel free to join the support server. Thanks for trying it out! ❤️
 
 ---
